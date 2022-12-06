@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuanMateus07
-- 👀 I’m interested in ... frontand programming
+- 👀 I’m interested in ... Frontand Programming
 - 🌱 I’m currently learning ...  JS,HTML,CSS,NodeJS,Express,Query,MySQML,React,Angula,WebPack
-- 💞️ I’m looking to collaborate on ... in a digital world
+- 💞️ I’m looking to collaborate on ... In a digital world
 - 📫 How to reach me ... LinkedIn, Github, Tel, Gmail
 
 <!---
